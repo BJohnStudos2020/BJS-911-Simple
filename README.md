@@ -1,6 +1,7 @@
 ## B.John Studios Simple 911 Script ##
 
 Youtube Video - `Coming Soon`
+Download link - https://github.com/BJohnStudos2020/BJS-911-Simple
 
 
 `INFO and commands` 
