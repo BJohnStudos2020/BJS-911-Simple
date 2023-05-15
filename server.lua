@@ -15,7 +15,7 @@ function log()
                 {
                     ["color"] = 16711680,
                     ["title"] = "**" .. Config.server_name .. "**",
-                    ["description"] = " Is Running BJS-911-Simple",
+                    ["description"] = " Is Running BJS-911-Simple"
                 }
             }
 
